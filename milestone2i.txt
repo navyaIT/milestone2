@@ -1,0 +1,21 @@
+<html>
+<head>
+<body>
+<u>
+<h1 style="color:blue; font-size=25;  text-align:center;")><i> yoga</i> </h1>
+</u>
+<p style="font-size:15;"><big><b>Yoga</b>  </big>yoga is agroup in of physical,mental,and spiritual practices which originated in ancient india and aim to control
+</p>
+
+ <p style="font-size:15;"><big><b>  awareness </b></big> knowledge or perception of a situation or fact
+</p>
+
+<img src="C:\Users\91970\pictures\saved pictures\save.jpg"height="200" width="400">
+
+<p style="font-size:10;"><big><b>According </b></big>the definition of awareness is a state of knowing and being informed of something 
+<br> Added to this,are the changes in climate,population growth and lifestyles
+</p>
+<img src="C:\users\91970\pictures\large yoga-awareness-definition-imafkp4zggdvtgpv.jpg" height-"225">
+</body>
+</head>
+</html>
